@@ -150,7 +150,7 @@ and (max-device-width : 1024px) {
         margin-right: 10px;
         top: 0;
         padding: 0;
-        background-color: #fffaf0;
+        background-color: #eeeeee;
         width: 480px;
         height: 9px
     }
@@ -184,7 +184,7 @@ and (min-width : 1224px) {
         margin-right: 10px;
         top: 0;
         padding: 0;
-        background-color: #fffaf0;
+        background-color: #eeeeee;
         width: 540px;
         height: 9px
     }

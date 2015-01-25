@@ -91,19 +91,21 @@
 #header {
     position: fixed;
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 #container {
     margin: auto;
     width: 520px;
-    height: 1000px;
+    height: auto;
     padding-left: 10px;
     padding-right: 10px;
 }
 
 #headerPanel {
     position: fixed;
-    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
     top: 0;
     padding: 0;
     background-color: #fffaf0;

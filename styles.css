@@ -1,3 +1,13 @@
+A {
+    color: #ffffff; /* Цвет обычной ссылки */
+}
+A:visited {
+    color: #ffffff; /* Цвет посещенной ссылки */
+}
+A:hover {
+    color: yellow;
+}
+
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen
 and (max-device-width : 1024px) {

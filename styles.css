@@ -22,7 +22,6 @@ and (max-device-width : 1024px) {
         -moz-border-radius: 7px;
         -webkit-border-radius: 7px;
         border-radius: 7px;
-        background-color: transparent;
     }
 }
 
@@ -38,7 +37,6 @@ and (min-width : 1224px) {
         -moz-border-radius: 7px;
         -webkit-border-radius: 7px;
         border-radius: 7px;
-        background-color: transparent;
     }
 }
 
@@ -75,15 +73,11 @@ and (min-width : 1224px) {
      border-bottom-left-radius: 7px;
 }
 
-.CSSTable tr:hover td{
-
-}
-
-.CSSTable tr:nth-child(odd) {
+.CSSTable tr:nth-child(odd) td {
     background-color:#aad4ff;
 }
 
-.CSSTable tr:nth-child(even) {
+.CSSTable tr:nth-child(even) td {
     background-color:#fff;
 }
 
